@@ -11,7 +11,7 @@ npm install --global speed-test
 pkg install speedtest-cli
 
 # LIVE TARGET TERMUX
-![be](https://raw.githubusercontent.com/boychongzen18/speedtest-cli/master/speedtest.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/speedtest-cli/master/speed-test.jpg)
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
