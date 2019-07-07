@@ -12,6 +12,10 @@ npm install --global speed-test
 
 pkg install speedtest-cli
 
+Eksekusi Via Windows
+
+pip install speedtest-cli
+
 # LIVE TARGET TERMUX
 ![be](https://raw.githubusercontent.com/boychongzen18/speedtest-cli/master/speed-test.jpg)
 
