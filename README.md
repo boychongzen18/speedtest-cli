@@ -1,5 +1,7 @@
 # Cara Install Speed Meter CLI di Termux 
 
+# wORKING Termux & Laptop / PC
+
 Eksekusi Via Termux
 
 pkg update && pkg upgrade
