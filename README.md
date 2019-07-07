@@ -2,7 +2,7 @@
 
 # Working Termux & Laptop / PC
 
-Eksekusi Via Termux
+# Eksekusi Via Termux
 
 pkg update && pkg upgrade
 
@@ -12,7 +12,7 @@ npm install --global speed-test
 
 pkg install speedtest-cli
 
-Eksekusi Via Windows
+# Eksekusi Via Windows
 
 pip install speedtest-cli
 
