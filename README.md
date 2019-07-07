@@ -18,6 +18,9 @@ pip install speedtest-cli
 
 # LIVE TARGET TERMUX
 ![be](https://raw.githubusercontent.com/boychongzen18/speedtest-cli/master/speed-test.jpg)
+# LIVE TARGET Windows
+![be](https://raw.githubusercontent.com/boychongzen18/speedtest-cli/master/speedtest.jpg)
+
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
