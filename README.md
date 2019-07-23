@@ -10,7 +10,7 @@ pkg install nodejs-lts or pkg install nodejs
 
 npm install --global speed-test
 
-pkg install speedtest-cli
+pip install speedtest-cli
 
 # Eksekusi Via Windows
 
