@@ -22,6 +22,9 @@ pip install speedtest-cli
 ![be](https://raw.githubusercontent.com/boychongzen18/speedtest-cli/master/speedtest.jpg)
 
 
+https://www.google.com/search?hl=in-ID&ie=UTF-8&source=android-browser&q=speedtest&client=ms-android-xiaomi-rvo2
+
+
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
